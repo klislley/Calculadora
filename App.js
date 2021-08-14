@@ -7,7 +7,7 @@ export default function App(){
 
   const [darkMode, setDarkMode] = useState(false);
 
-  const buttons = ['AC', 'DEL', '%', '/', 7, 8, 9, '*', 4, 5, 6, '-', 3, 2, 1, '+', 0, '.', '+/-', '=']  
+  const buttons = ['AC', 'DEL', '%', '/', 7, 8, 9, 'x', 4, 5, 6, '-', 3, 2, 1, '+', 0, '.', '+/-', '=']  
 
   const [currentNumber, setCurrentNumber] = useState("")
   const [lastNumber, setLastNumber] = useState("")
