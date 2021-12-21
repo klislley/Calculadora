@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora</h1>
+<h1 align="center">Calculadora React Native</h1>
 
 <p align="center">Aplicação simples em js e com modo Light&Dark</p>
 
